@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/db.py
+src/runner.py
+src/olist_sql_warehouse.egg-info/PKG-INFO
+src/olist_sql_warehouse.egg-info/SOURCES.txt
+src/olist_sql_warehouse.egg-info/dependency_links.txt
+src/olist_sql_warehouse.egg-info/requires.txt
+src/olist_sql_warehouse.egg-info/top_level.txt

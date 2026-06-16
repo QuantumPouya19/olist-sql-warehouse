@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: olist-sql-warehouse
+Version: 0.1.0
+Summary: SQL warehouse and dashboard on the Olist Brazilian e-commerce dataset
+Requires-Python: >=3.11
+Requires-Dist: duckdb>=1.0
+Requires-Dist: pandas>=2.1
+Requires-Dist: streamlit>=1.32
+Requires-Dist: plotly>=5.20
+Requires-Dist: pytest>=8.0
